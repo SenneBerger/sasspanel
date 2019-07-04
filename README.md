@@ -1,1 +1,1 @@
-# sasspanel
+# sass-admin-panel

@@ -1031,6 +1031,12 @@ form button {
   border-top: 1px solid #fff;
 }
 
+.footer {
+  display: flex;
+  justify-content: center;
+  color: #9c9c9c;
+}
+
 /******************************content**********************/
 body {
   background-color: #e6e8eb;
